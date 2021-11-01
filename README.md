@@ -1,2 +1,2 @@
-# Graph-Chart
- Using Chart.js
+# Bar Chart
+> Using Chart.js [first try]
